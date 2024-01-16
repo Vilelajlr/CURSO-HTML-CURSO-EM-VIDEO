@@ -1,0 +1,19 @@
+ele é aplicavel a linguagem html e css, facilita muito em organizar o site, quando se tem um arquivo em html,
+tudo que é exibido na tela está em fomato de caixa, pode se colocar essas "caixas" uma dentro da outra,
+quando se utiliza desse criterio o termo que se fala é "aninhamento", seria div dentro de div.
+
+height - Altura 
+width - Largura
+
+ANATOMIA DE UMA CAIXA
+border - borda, linha que circunda o seu conteudo.
+padding - acolchoamento ou preenchimento, espaço adicional em volta do conteudo entre a borda
+margin - margem externa do elemento, após a borda
+outline - contorno ou traçado, é um contorno que fica por fora da borda
+
+Caixas box-level
+Ele sempre se inicia em uma linha nova, mesmo se o conteudo nao cobrir a pagina inteira. sempre ocupando a Largura
+total da tela.
+
+Caixa inline-level
+o contrario de box-level

@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Grouping Tags</title>
+
+    <style>
+      @import url("https://fonts.googleapis.com/css2? family= Poppins:ital,wght@0,600;0,700;1,500 & display=swap");
+      body {
+        font-family: Arial, Helvetica, sans-serif;
+        background-color: dimgray;
+        margin: 0px;
+      }
+
+      header {
+        background-color: white;
+        padding: 10px;
+        margin: 10px;
+      }
+
+      nav {
+        background-color: rgb(102, 102, 102);
+        padding: 3px;
+        box-shadow: 5px 3px 7px 1px rgba(0, 0, 0, 0.42);
+      }
+
+      nav > a {
+        text-decoration: none;
+        color: white;
+        font-weight: bold;
+        margin-right: 30px;
+      }
+
+      nav > a:hover {
+        text-decoration: underline;
+      }
+
+      main {
+        background-color: white;
+        padding: 10px;
+        margin: 10px;
+        border-radius: 10px 30px 30px 30px;
+        width: 700px;
+        display: flex;
+      }
+
+      #noticias {
+        display: flex;
+        
+      }
+
+      article {
+        background-color: lightgray;
+        padding: 1px;
+        border-radius: 20px 0px;
+        margin: 10px;
+      }
+
+      article > h2 {
+        font-family: "Poppins", sans-serif;
+        text-align: center;
+      }
+
+      article > p {
+        font-family: Arial, Helvetica, sans-serif;
+        margin: 5px;
+        text-align: center;
+      }
+
+      article > aside {
+        background-color: rgb(165, 165, 165);
+        border-radius: 10px;
+        margin: 10px;
+        text-align: center;
+        padding: 2px;
+      }
+
+      article > aside > p {
+        margin: 0px;
+      }
+
+      footer {
+        background-color: black;
+        color: white;
+        text-align: center;
+        padding: 4px;
+        margin: 0px;
+      }
+
+      footer > p {
+        margin: 0px;
+      }
+
+      #bola{
+        height: 100px;
+        width: 100px;
+        background-color: white;
+        margin: 10px;
+        border-radius: 50%;
+      }
+
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>Meu site</h1>
+      <nav>
+        <a href="#">Link</a>
+        <a href="#">Link</a>
+        <a href="#">Link</a>
+        <a href="#">Link</a>
+        <a href="#">Link</a>
+      </nav>
+    </header>
+    <main>
+      <section id="assuntos">
+        <article>
+          <h2>José Leandro</h2>
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci
+            dicta eos perspiciatis totam autem odio eius itaque ex, doloribus
+            possimus accusantium, aperiam vel deleniti optio cupiditate, quam
+            consectetur enim minus.
+          </p>
+        </article>
+      </section>
+      <section id="noticias">
+        <article>
+          <h2>Noticias sobre o Brasil</h2>
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Et
+            deserunt, saepe cupiditate, tempore reprehenderit molestias iure nam
+            similique vero repellat facilis quae, minus sint neque iusto aliquid
+            rerum accusantium obcaecati.
+          </p>
+          <aside>
+            <p>Artigo Escrito por Jose da Silva</p>
+          </aside>
+        </article>
+
+        <article>
+          <h2>Noticias sobre esporte</h2>
+          <p>
+            Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+            Perferendis minus placeat modi nostrum nemo, eveniet explicabo atque
+            sit nam maxime non rem aliquid repudiandae obcaecati. Ad ullam eum
+            numquam totam.
+          </p>
+        </article>
+      </section>
+    </main>
+    <footer>
+      <p>Desenvolvido pelo curso em video</p>
+    </footer>
+
+    <div id="bola">
+
+    </div>
+
+  </body>
+</html>

@@ -1,0 +1,1 @@
+tres tipos de alinhamento, a esquerda, a direita e centralizado.

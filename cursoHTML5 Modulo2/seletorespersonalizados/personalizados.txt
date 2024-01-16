@@ -1,0 +1,4 @@
+em que momento usar id ou class?
+
+Quando vai se formatar somente um elemento pois id so pode ser usado com o mesmo nome em um elemento no codigo
+para formatar mais elementos com a mesma fomratação usamos o class

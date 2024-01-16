@@ -1,0 +1,11 @@
+hover -  Faz animações com um elemento quando se passa o mouse por cima
+visited - usasse para que quando é aberto um link aconteça alo depois com o link proprio
+active - para que quando pressionado o link mude de cor ou faça outras especificações
+
+Psedoelemento 
+
+# = id
+. = class
+: = pseudoclass
+:: = pseudo-element
+> = children

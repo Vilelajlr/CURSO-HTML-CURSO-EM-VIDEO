@@ -1,0 +1,27 @@
+TIPOGRAFIA - Melhora de vizualização, legebilidade das letras
+týpos - colocar algo no papel
+graphía - escrita
+É o estudo de como irei escrever coisas em telas ou papeís.
+A forma de escrever também transmite emoções.
+
+ANATOMIA DOS TIPOS
+Minuscula - altura X
+Maiúsculas - altura das maiúsculas
+altura das letras que passa das Minuscula - ascendentes
+altura das letrar como o g minusculo - descendentes
+alutra de todas as letras, total - corpo
+
+Anatomico Geométrico
+
+Serifa, prolongamento das letras nas bases.
+
+CATEGORIA DE FONTES
+
+Times new Roman - fonte padrao dos navegadores.
+para texto longos em site de preferencia usar fontes sans-serif(não serifada)
+
+fonte monoespaçada todas as letras tem exatamente os mesmos espaços, letras, simbolos, sempre com a mesma largura.
+
+font handwriting - fonte scriptada, simula escrita à mão.
+
+font display - não se preocupa a obedecer regras anatomicas.
